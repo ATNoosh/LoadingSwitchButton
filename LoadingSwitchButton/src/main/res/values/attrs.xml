@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingSwitchButton">
+        <attr name="lsb_strokeWidth" format="dimension" />
+        <attr name="lsb_backgroundColorOff" format="color" />
+        <attr name="lsb_foregroundColorOff" format="color" />
+        <attr name="lsb_backgroundColorOn" format="color" />
+        <attr name="lsb_foregroundColorOn" format="color" />
+        <attr name="lsb_titleOn" format="string" />
+        <attr name="lsb_titleOff" format="string" />
+        <attr name="lsb_titleMiddle" format="string" />
+        <attr name="lsb_titleOnColor" format="color" />
+        <attr name="lsb_titleOffColor" format="color" />
+        <attr name="lsb_titleMiddleColor" format="color" />
+        <attr name="lsb_numberOfCircles" format="integer" />
+        <attr name="lsb_radiusRatio" format="float" />
+
+    </declare-styleable>
+
+
+</resources>
